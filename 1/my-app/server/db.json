@@ -1,0 +1,37 @@
+{
+  "users": [
+    {
+      "firstName": "naeimeh",
+      "lastName": "seyedi",
+      "email": "seyedi89.nas@gmail.com",
+      "password": "123456",
+      "education": "کاردانی",
+      "educationPlace": "تهران",
+      "province": "آذربايجان شرقي",
+      "city": "آذر شهر",
+      "id": 0
+    },
+    {
+      "firstName": "fatemeh",
+      "lastName": "mohammadi",
+      "email": "admin@admin.com",
+      "password": "qazwsx",
+      "education": "دکترا",
+      "educationPlace": "اصفهان",
+      "province": "تهران",
+      "city": "فشم",
+      "id": 1
+    },
+    {
+      "firstName": "zahra",
+      "lastName": "rezai",
+      "email": "rezai@gmail.com",
+      "password": "abcdef",
+      "education": "کارشناسی ارشد",
+      "educationPlace": "اصفهان",
+      "province": "خوزستان",
+      "city": "سوسنگرد",
+      "id": 2
+    }
+  ]
+}

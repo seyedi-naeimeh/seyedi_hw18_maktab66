@@ -1,0 +1,43 @@
+
+.mycard{
+  direction: rtl;
+  width: 25rem ;
+  padding: 20px;
+  margin-top:5%;
+  margin-bottom: 5%;
+  left:30%;
+  color: white;
+  background-color: rgb(65, 65, 68) !important;
+  border: 10px grey solid !important;
+
+}
+.inputStyle{
+  background-color: rgb(65, 65, 68) !important;
+  color: white;
+  margin-top: 20px;
+}
+.form-group.required .control-label:after {
+  content:"*";
+  color:red;
+}
+.bg-btn1{
+  background-color: green !important;
+}
+.bg-btn2{
+  background-color: green;
+}
+.bi-eye{
+  position: absolute;
+  left: 30px;
+  bottom: 28%;
+  color: black;
+
+}
+
+.bi-eye-slash{
+  position: absolute;
+  left: 30px;
+  bottom: 28%;
+  color: black;
+
+}
